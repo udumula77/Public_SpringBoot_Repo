@@ -1,0 +1,14 @@
+package corejava;
+
+import static org.junit.Asserts.*;
+
+
+
+class JavaMavenTest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}
